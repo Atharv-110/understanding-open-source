@@ -40,6 +40,10 @@ Open source session in collaboration with MU-ACM &amp; Hacktoberfest 2024
 ![<your-first-name>'s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=<your-github-username>&bg_color=1c1c1c&color=e6e6e6&line=e6e6e6&point=c2c2c2&area=true&area_color=c2c2c2&hide_border=true)
 ```
 
+## Tools
+- ### [Typing Effect Generator](https://readme-typing-svg.demolab.com/demo/)
+- ### [Skills Icons](https://github.com/tandpfun/skill-icons#readme)
+
 # Result
 <img src="https://komarev.com/ghpvc/?username=Atharv-110&label=Profile+Views&color=2f81f7&style=for-the-badge" />
 
