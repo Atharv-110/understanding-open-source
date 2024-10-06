@@ -8,8 +8,7 @@ Open source session in collaboration with MU-ACM &amp; Hacktoberfest 2024
 ```
 <img src="https://komarev.com/ghpvc/?username=<your-github-username>&label=Profile+Views&color=2f81f7&style=for-the-badge" />
 
-## 👤 About Me
-> <Your sub heading>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=435&lines=Tech-Xplorer+%7C+Developer+%7C+Mentor)](https://git.io/typing-svg)
 
 ## ⚙️ Tech Stack
 
@@ -44,8 +43,7 @@ Open source session in collaboration with MU-ACM &amp; Hacktoberfest 2024
 # Result
 <img src="https://komarev.com/ghpvc/?username=Atharv-110&label=Profile+Views&color=2f81f7&style=for-the-badge" />
 
-## 👤 About Me
-> Tech-Xplorer | Developer | Mentor
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=435&lines=Tech-Xplorer+%7C+Developer+%7C+Mentor)](https://git.io/typing-svg)
 
 ## ⚙️ Tech Stack
 
