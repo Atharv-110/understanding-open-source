@@ -6,12 +6,22 @@
 ```
 <img src="https://komarev.com/ghpvc/?username=<your-github-username>&label=Profile+Views&color=2f81f7&style=for-the-badge" />
 
+## About Me 👤
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=435&lines=Tech-Xplorer+%7C+Developer+%7C+Mentor)](https://git.io/typing-svg)
+
+🔭 I’m currently working on MU-ACM's open source project
+
+👯 I’m looking to collaborate on MU-ACM's open source project
+
+🌱 I’m currently learning Angular
+
+💬 Ask me about Tech and Open Source
+
+⚡ Fun fact, I can code in day and night both
 
 ## ⚙️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,cpp,c)](https://skills.thijs.gg)
-
 
 ## ❤️ Session's Attended
 
@@ -43,14 +53,25 @@
 - ### [Skills Icons](https://github.com/tandpfun/skill-icons#readme)
 
 # Result
+
 <img src="https://komarev.com/ghpvc/?username=Atharv-110&label=Profile+Views&color=2f81f7&style=for-the-badge" />
 
+## About Me 👤
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=435&lines=Tech-Xplorer+%7C+Developer+%7C+Mentor)](https://git.io/typing-svg)
+
+🔭 I’m currently working on MU-ACM's open source project
+
+👯 I’m looking to collaborate on MU-ACM's open source project
+
+🌱 I’m currently learning Angular
+
+💬 Ask me about Tech and Open Source
+
+⚡ Fun fact, I can code in day and night both
 
 ## ⚙️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=java,react,angular,nextjs,python,js,ts,cpp,c)](https://skills.thijs.gg)
-
 
 ## ❤️ Session's Attended
 
