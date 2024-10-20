@@ -68,7 +68,7 @@
 
 💬 Ask me about Tech and Open Source
 
-⚡ Fun fact, I can code in day and night both
+⚡ Fun fact, I can code in light mode too.
 
 ## ⚙️ Tech Stack
 
