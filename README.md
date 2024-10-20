@@ -9,9 +9,9 @@
 ## About Me 👤
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=435&lines=Tech-Xplorer+%7C+Developer+%7C+Mentor)](https://git.io/typing-svg)
 
-🔭 I’m currently working on MU-ACM's open source project
+🔭 I’m currently working on open source projects
 
-👯 I’m looking to collaborate on MU-ACM's open source project
+👯 I’m looking to collaborate on AITR's open source project
 
 🌱 I’m currently learning Angular
 
@@ -59,9 +59,9 @@
 ## About Me 👤
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=435&lines=Tech-Xplorer+%7C+Developer+%7C+Mentor)](https://git.io/typing-svg)
 
-🔭 I’m currently working on MU-ACM's open source project
+🔭 I’m currently working on open source project
 
-👯 I’m looking to collaborate on MU-ACM's open source project
+👯 I’m looking to collaborate on AITR's open source project
 
 🌱 I’m currently learning Angular
 
@@ -75,7 +75,7 @@
 
 ## ❤️ Session's Attended
 
-- #### Understanding Open Source by MU-ACM & [Atharv Vani](https://www.linkedin.com/in/atharv-vani110/)
+- #### Hactoberfest by AITR-GDSC, AITR-ACM, AITR-ACM-W & [Atharv Vani](https://www.linkedin.com/in/atharv-vani110/)
 
 ## 🤝 Let's get Connected
 <div align="left">
