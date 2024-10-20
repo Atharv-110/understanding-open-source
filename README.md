@@ -1,7 +1,6 @@
 ![DO-HFest-EmailBanner-600px-1-@3x](https://github.com/user-attachments/assets/827d74c1-da9a-435b-bfc1-3fa4cb077c29)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&letterSpacing=&pause=1000&color=51DA4B&width=600&height=60&lines=Care+to+contribute%3F)](https://git.io/typing-svg)
-
 ## Boiler Plate Markdown Code
 ```
 <img src="https://komarev.com/ghpvc/?username=<your-github-username>&label=Profile+Views&color=2f81f7&style=for-the-badge" />
