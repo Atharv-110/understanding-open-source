@@ -50,6 +50,8 @@
 ## Tools
 - ### [Typing Effect Generator](https://readme-typing-svg.demolab.com/demo/)
 - ### [Skills Icons](https://github.com/tandpfun/skill-icons#readme)
+- ### [Readme Stats](https://github.com/anuraghazra/github-readme-stats) [OPTIONAL]
+- ### [Readme Generator](https://gprm.itsvg.in/) [OPTIONAL]
 
 # Result
 
